@@ -58,7 +58,7 @@ figure();
 plot(t,yman_fp);
 title('Y_FP');
 
-yman_fp = bitshift(yman_fp,-fp_res);
+yman_fp = bitshift(yman_fp,-fp_res)/10000;
 figure();
 plot(t,yman_fp);
 title('Manual filtered data with FP');
