@@ -20,3 +20,7 @@ Low pass filter implementation with Butterworth filter order 2 with fixed point 
 ![fixedpoint_input](./images/fixedpoint_input.jpg)
 ![fixedpoint_output](./images/fixedpoint_output.jpg)
 ![fixedpoint_input_in_int](./images/fixedpoint_output_in_int.jpg)
+
+## FFT
+- The fft of each signal can be seen using the `signal_fft.m`
+- Replace the x with the desired signal
