@@ -10,7 +10,7 @@ Low pass filter implementation with Butterworth filter order 2 with fixed point 
     - `pkg install -forge signal`
     - `pkg load signal`
   - Further instruction reference to install and removing packages can be found [here](https://docs.octave.org/interpreter/) Section 37
-- Run the file in Octave
+- Run the lpf.m file in Octave
 
 ## Filter Demo
 ![freq_response](./images/freq_response.jpg)
