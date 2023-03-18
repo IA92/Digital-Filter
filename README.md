@@ -1,7 +1,7 @@
 # Digital-Filter
 Implementation of butterworth filter for a low pass filter
 
-Detailed desc: Low pass filter implementation with Butterworth filter order 2 with fixed point operation
+Low pass filter implementation with Butterworth filter order 2 with fixed point operation
 
 ## Getting Started
 - Install octave from [here](https://octave.org/download)
